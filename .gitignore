@@ -9,3 +9,6 @@
 *.njsproj
 *.sln
 *.sw?
+
+data/.DS_Store
+data/
