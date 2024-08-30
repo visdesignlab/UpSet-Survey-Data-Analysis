@@ -1,0 +1,297 @@
+participantId,trialId,responsePrompt,answer
+574dc90512d86b000f833ab0,Covid-Text-Q3,What are your insights and take-aways from the description of this data?,The set sizes have a lot of variation but the intersection properties seem very similar.
+574dc90512d86b000f833ab0,Organizations-Vis-Q3,What are your insights and take-aways from this plot for this data?,There is a large divergence in the sets and the intersections.
+574dc90512d86b000f833ab0,Tennis-Both-Q3,What are your insights and take-aways from the plot and the description for this data?,Set sizes are mostly equal.
+574dc90512d86b000f833ab0,Post Study Survey,"Please comment on the text descriptions. Did you miss anything in the text description? If yes, do you have suggestions for what should be included?","No, I don't think I missed anything."
+574dc90512d86b000f833ab0,Post Study Survey,Do you have any other comments?,
+5955a3eb98c9c400019f5c5f,Covid-Both-Q3,What are your insights and take-aways from the plot and the description for this data?,It is a little repetitive. 
+5955a3eb98c9c400019f5c5f,Organizations-Vis-Q3,What are your insights and take-aways from this plot for this data?,I think the set is about government organizations but I'm not sure. 
+5955a3eb98c9c400019f5c5f,Tennis-Text-Q3,What are your insights and take-aways from the description of this data?,This was the easiest data to comprehend. 
+5955a3eb98c9c400019f5c5f,Post Study Survey,"Please comment on the text descriptions. Did you miss anything in the text description? If yes, do you have suggestions for what should be included?",The text descriptions were better for me personally because I prefer textual information. 
+5955a3eb98c9c400019f5c5f,Post Study Survey,Do you have any other comments?,No. 
+597fe89a1b41a20001749f57,Covid-Both-Q3,What are your insights and take-aways from the plot and the description for this data?,This is a good way to visualize data where there are multiple inputs such as symptoms to see if there is a relationship between the symptoms.
+597fe89a1b41a20001749f57,Organizations-Vis-Q3,What are your insights and take-aways from this plot for this data?,Some of the organizations are more popular than others and they occur in groups more often than alone.
+597fe89a1b41a20001749f57,Tennis-Text-Q3,What are your insights and take-aways from the description of this data?,"I like the description but I prefer having the visualizations too. As for the data itself, this shows it's hard to win all 4 grand slams."
+597fe89a1b41a20001749f57,Post Study Survey,"Please comment on the text descriptions. Did you miss anything in the text description? If yes, do you have suggestions for what should be included?",I think they were largely fine they way they were
+597fe89a1b41a20001749f57,Post Study Survey,Do you have any other comments?,no
+5aebc4ac75deca00016252ea,Organizations-Text-Q3,What are your insights and take-aways from the description of this data?,To visualise UpSet Data
+5aebc4ac75deca00016252ea,Tennis-Both-Q3,What are your insights and take-aways from the plot and the description for this data?,The UpSet plot shows tennis grand slam winners 
+5aebc4ac75deca00016252ea,Covid-Vis-Q3,What are your insights and take-aways from this plot for this data?,The UpSet plot shows covid cases and their symptoms
+5aebc4ac75deca00016252ea,Post Study Survey,"Please comment on the text descriptions. Did you miss anything in the text description? If yes, do you have suggestions for what should be included?",The text description works great and easy to read. 
+5aebc4ac75deca00016252ea,Post Study Survey,Do you have any other comments?,
+5ba855d47c0ebe0001272f70,Covid-Vis-Q3,What are your insights and take-aways from this plot for this data?,Most common symptom is fatigue. Fatigue and anosmia are the most common combination of symptoms.
+5ba855d47c0ebe0001272f70,Tennis-Text-Q3,What are your insights and take-aways from the description of this data?,Australian Open is the most commonly won grand slam. Only 9 times have all grand slams been won by a player.
+5ba855d47c0ebe0001272f70,Organizations-Both-Q3,What are your insights and take-aways from the plot and the description for this data?,"UPU is the organization with most member countries. Countries that are part of UPU are also likely to be members of Interpol, UN, UNESCO, WHO."
+5ba855d47c0ebe0001272f70,Post Study Survey,"Please comment on the text descriptions. Did you miss anything in the text description? If yes, do you have suggestions for what should be included?",They contained enough information to answer the questions.
+5ba855d47c0ebe0001272f70,Post Study Survey,Do you have any other comments?,
+5c6c260dce4e560001f75731,Tennis-Both-Q3,What are your insights and take-aways from the plot and the description for this data?,there is not much difference between the sets
+5c6c260dce4e560001f75731,Organizations-Text-Q3,What are your insights and take-aways from the description of this data?,The international organisations are very inter-twined
+5c6c260dce4e560001f75731,Covid-Vis-Q3,What are your insights and take-aways from this plot for this data?,There are lots of combinations of covid symptoms which can be present 
+5c6c260dce4e560001f75731,Post Study Survey,"Please comment on the text descriptions. Did you miss anything in the text description? If yes, do you have suggestions for what should be included?",--
+5c6c260dce4e560001f75731,Post Study Survey,Do you have any other comments?,--
+5dd71896670d1a6af9f20eee,Tennis-Text-Q3,What are your insights and take-aways from the description of this data?,"It is confusing. Since the items are grand slam winners, I understand that a tennis player must win all 4 major tournaments (sets) to be considered. But I'm a little confused by the timeline in which the player would have been a repeat winner, etc."
+5dd71896670d1a6af9f20eee,Covid-Vis-Q3,What are your insights and take-aways from this plot for this data?,"I appreciated the visual much more than the text-only, and I found it more understandable."
+5dd71896670d1a6af9f20eee,Organizations-Both-Q3,What are your insights and take-aways from the plot and the description for this data?,"This one had even more information, and helped me recognize where I may have made errors in previous datasets."
+5dd71896670d1a6af9f20eee,Post Study Survey,"Please comment on the text descriptions. Did you miss anything in the text description? If yes, do you have suggestions for what should be included?","The text descriptions were crucial for me, I don't think I missed anything in them but they steered me in the right direction."
+5dd71896670d1a6af9f20eee,Post Study Survey,Do you have any other comments?,"No, thank you!"
+5e02e5144acfb9e385bb4c5a,Covid-Text-Q3,What are your insights and take-aways from the description of this data?,"I don't feel like I've gained much of anything from the data, other than what is written on the page. As in, I don't really feel as if there is anything to interpret out of this data."
+5e02e5144acfb9e385bb4c5a,Tennis-Both-Q3,What are your insights and take-aways from the plot and the description for this data?,I don't understand how the data set shows tennis grand slam tournaments and their winners. Is it just a comparison of how many people who win one tournament win other tournaments also?
+5e02e5144acfb9e385bb4c5a,Organizations-Vis-Q3,What are your insights and take-aways from this plot for this data?,"That the vast majority of member countries that are a part of the international organizations shown are usually apart of the same five--Interpol, UN, UNESCO, UPU, and WHO. "
+5e02e5144acfb9e385bb4c5a,Post Study Survey,"Please comment on the text descriptions. Did you miss anything in the text description? If yes, do you have suggestions for what should be included?",The text description were so procedural in their style that it was difficult to tell what information it was trying to give me with the data. It seemed with that much text that there would be more explanation of the actual nature of the data.
+5e02e5144acfb9e385bb4c5a,Post Study Survey,Do you have any other comments?,
+5ece9e3b3a19db0cf5af6692,Covid-Both-Q3,What are your insights and take-aways from the plot and the description for this data?,That the leading symptoms of Covid symptoms are Ansomia and Fatigue.
+5ece9e3b3a19db0cf5af6692,Tennis-Text-Q3,What are your insights and take-aways from the description of this data?,There information is there and understandable but i prefer visual aid.
+5ece9e3b3a19db0cf5af6692,Organizations-Vis-Q3,What are your insights and take-aways from this plot for this data?,The visuals alone made it more difficult i prefer the combination of visual and written explanations.
+5ece9e3b3a19db0cf5af6692,Post Study Survey,"Please comment on the text descriptions. Did you miss anything in the text description? If yes, do you have suggestions for what should be included?",Nothing i noticed.
+5ece9e3b3a19db0cf5af6692,Post Study Survey,Do you have any other comments?,No other comments.
+5ed7b0c59a2ae024836e32d5,Organizations-Vis-Q3,What are your insights and take-aways from this plot for this data?,"Interprol, UN, UNESCO, UPU and WHO have the biggest intersection"
+5ed7b0c59a2ae024836e32d5,Covid-Text-Q3,What are your insights and take-aways from the description of this data?,Most covid cases result in fatigue
+5ed7b0c59a2ae024836e32d5,Tennis-Both-Q3,What are your insights and take-aways from the plot and the description for this data?,Australian Open is the largest set
+5ed7b0c59a2ae024836e32d5,Post Study Survey,"Please comment on the text descriptions. Did you miss anything in the text description? If yes, do you have suggestions for what should be included?",I didn't miss anything.
+5ed7b0c59a2ae024836e32d5,Post Study Survey,Do you have any other comments?,
+5f4fc497a3b4320c8928639e,Tennis-Text-Q3,What are your insights and take-aways from the description of this data?,It is harder to quickly understand the data when it is text only.
+5f4fc497a3b4320c8928639e,Organizations-Vis-Q3,What are your insights and take-aways from this plot for this data?,"The plot makes it much easier to see and understand the data, compared to only text.-"
+5f4fc497a3b4320c8928639e,Covid-Both-Q3,What are your insights and take-aways from the plot and the description for this data?,"I think having text and visual plot is best since some people would not be able to see the visual information, though I personally found that I looked only at the visual information."
+5f4fc497a3b4320c8928639e,Post Study Survey,"Please comment on the text descriptions. Did you miss anything in the text description? If yes, do you have suggestions for what should be included?","The infomation seemed to be there, but it takes more thought to grasp the meaning of it compared to having a visual plot."
+5f4fc497a3b4320c8928639e,Post Study Survey,Do you have any other comments?,Fun survey.
+60fcd02deba2c8e1ed1f0723,Organizations-Both-Q3,What are your insights and take-aways from the plot and the description for this data?,"The UpSet shows that most of the member countries are in the organizations of Interpol, UN, UNESCO, UPU, and WHO. The plot has a vast difference in descending order. It has an uneven trend with a peak of 117 and the least of 1. "
+60fcd02deba2c8e1ed1f0723,Tennis-Text-Q3,What are your insights and take-aways from the description of this data?,This plot's intersection has a steady decrease. 
+60fcd02deba2c8e1ed1f0723,Covid-Vis-Q3,What are your insights and take-aways from this plot for this data?,The plot shows a good steady decrease in data. Most of the cases shown have roughly only a few symptoms. The median having the most symptoms. 
+60fcd02deba2c8e1ed1f0723,Post Study Survey,"Please comment on the text descriptions. Did you miss anything in the text description? If yes, do you have suggestions for what should be included?","No, I do not think I missed anything."
+60fcd02deba2c8e1ed1f0723,Post Study Survey,Do you have any other comments?,
+61080d1c39e080da7841eade,Covid-Vis-Q3,What are your insights and take-aways from this plot for this data?,"anosmia is common in many cases, especially alongside fatigue (and often cough).  Fatigue is also very commonly present."
+61080d1c39e080da7841eade,Organizations-Text-Q3,What are your insights and take-aways from the description of this data?,"UNESCO is part of many intersections, though it is not the largest set.  The intersection values also differ wildly, reflecting very different intersections of these organizations."
+61080d1c39e080da7841eade,Tennis-Both-Q3,What are your insights and take-aways from the plot and the description for this data?,"There is a decent amount of variance in the winner amount between tournaments.  But, there are some very good players, as shown by the intersection of all 4."
+61080d1c39e080da7841eade,Post Study Survey,"Please comment on the text descriptions. Did you miss anything in the text description? If yes, do you have suggestions for what should be included?","I felt like they perhaps has more information than I needed.  I found myself mostly just reading the sets and the intersections, rather than absording anything else there."
+61080d1c39e080da7841eade,Post Study Survey,Do you have any other comments?,"I honestly have no idea if I did this properly, but I hope I helped.  Thank you."
+611116ac01f43eeeb3cdeff3,Tennis-Vis-Q3,What are your insights and take-aways from this plot for this data?,More winners won the French Open tournament than any other despite not being the largest set.
+611116ac01f43eeeb3cdeff3,Covid-Text-Q3,What are your insights and take-aways from the description of this data?,There is a lot of variation in the symptoms that are common with COVID-19.
+611116ac01f43eeeb3cdeff3,Organizations-Both-Q3,What are your insights and take-aways from the plot and the description for this data?,There is a lot of variation between the international organizations and the countries that are involved with them.
+611116ac01f43eeeb3cdeff3,Post Study Survey,"Please comment on the text descriptions. Did you miss anything in the text description? If yes, do you have suggestions for what should be included?",Nothing that I noticed.
+611116ac01f43eeeb3cdeff3,Post Study Survey,Do you have any other comments?,
+628254ec789e78a3dcd22d99,Tennis-Text-Q3,What are your insights and take-aways from the description of this data?,"After understanding how to read the information, I found it very simple to find exactly what I needed in a short amount of time to answer the questions."
+628254ec789e78a3dcd22d99,Organizations-Both-Q3,What are your insights and take-aways from the plot and the description for this data?,"There's very few international organizations, and every seems to belong to the same one five different times. "
+628254ec789e78a3dcd22d99,Covid-Vis-Q3,What are your insights and take-aways from this plot for this data?,Sleep is a core component of having cohesive thoughts. COVID affecting fatigue to most cascades into memory loss. 
+628254ec789e78a3dcd22d99,Post Study Survey,"Please comment on the text descriptions. Did you miss anything in the text description? If yes, do you have suggestions for what should be included?",It was perfect and easy to understand. It's hard to think of a way to make it much better.
+628254ec789e78a3dcd22d99,Post Study Survey,Do you have any other comments?,
+62bb4c95ca36f792585cb4b5,Covid-Text-Q3,What are your insights and take-aways from the description of this data?,I have a very hard time understanding it. It is hard to follow along.
+62bb4c95ca36f792585cb4b5,Organizations-Both-Q3,What are your insights and take-aways from the plot and the description for this data?,I like having both the description and the visual. It allows me to cross reference in order to understand it completely.
+62bb4c95ca36f792585cb4b5,Tennis-Vis-Q3,What are your insights and take-aways from this plot for this data?,I still have an easier time understanding the data with a visual than without. But it is harder without the text alongside it.
+62bb4c95ca36f792585cb4b5,Post Study Survey,"Please comment on the text descriptions. Did you miss anything in the text description? If yes, do you have suggestions for what should be included?",no
+62bb4c95ca36f792585cb4b5,Post Study Survey,Do you have any other comments?,no
+63ea445c759d5bf0e3f63739,Covid-Vis-Q3,What are your insights and take-aways from this plot for this data?,Fatifue is amajor issue and is in almost all cases
+63ea445c759d5bf0e3f63739,Tennis-Both-Q3,What are your insights and take-aways from the plot and the description for this data?,Australian and French open are neck and neck
+63ea445c759d5bf0e3f63739,Organizations-Text-Q3,What are your insights and take-aways from the description of this data?,They all overlie with each other a little bit
+63ea445c759d5bf0e3f63739,Post Study Survey,"Please comment on the text descriptions. Did you miss anything in the text description? If yes, do you have suggestions for what should be included?",
+63ea445c759d5bf0e3f63739,Post Study Survey,Do you have any other comments?,
+641ecfa9f83175a3d9f63636,Covid-Both-Q3,What are your insights and take-aways from the plot and the description for this data?,"The set is very divergent, with seemingly nearly every possible combination of intersections present in the data."
+641ecfa9f83175a3d9f63636,Tennis-Text-Q3,What are your insights and take-aways from the description of this data?,"I am a visual person so find the graphs easier to glean the data from. However, I can understand this. There is not much variance with the sets and intersections as compared to the previous data set."
+641ecfa9f83175a3d9f63636,Organizations-Vis-Q3,What are your insights and take-aways from this plot for this data?,"The presence of G-5 and SICA in the task response options threw me off, as these organisations are not part of the dataset, but again I found this easy to comprehend. A more varied dataset than last time."
+641ecfa9f83175a3d9f63636,Post Study Survey,"Please comment on the text descriptions. Did you miss anything in the text description? If yes, do you have suggestions for what should be included?","I do not think I missed anything in the text descriptions, but as mentioned before, I am more of a ""visual"" learner. The task with only text descriptions took me a bit longer to parse."
+641ecfa9f83175a3d9f63636,Post Study Survey,Do you have any other comments?,
+650b604dbf69c1cada1ba416,Covid-Text-Q3,What are your insights and take-aways from the description of this data?,Covid-19 causes a great amount of fatigue as well as lots of cases of coughing.
+650b604dbf69c1cada1ba416,Organizations-Both-Q3,What are your insights and take-aways from the plot and the description for this data?,"International organizations contain large overlap as UNESCO, Interpol, WHO, UN and UNPU are all intersecting. "
+650b604dbf69c1cada1ba416,Tennis-Vis-Q3,What are your insights and take-aways from this plot for this data?,Australian and french open are the most prestigious tournaments with the most intersections of champions!
+650b604dbf69c1cada1ba416,Post Study Survey,"Please comment on the text descriptions. Did you miss anything in the text description? If yes, do you have suggestions for what should be included?","No, I found the text descriptions the easiest to comprehend."
+650b604dbf69c1cada1ba416,Post Study Survey,Do you have any other comments?,
+652d36620eca7decc5bd4466,Tennis-Both-Q3,What are your insights and take-aways from the plot and the description for this data?,Once you learned what to look for It makes it easier to understand the plot points and description.
+652d36620eca7decc5bd4466,Covid-Vis-Q3,What are your insights and take-aways from this plot for this data?,Visualizing makes it easier.
+652d36620eca7decc5bd4466,Organizations-Text-Q3,What are your insights and take-aways from the description of this data?,Just words kind of make it hard to visualize and generate an idea.
+652d36620eca7decc5bd4466,Post Study Survey,"Please comment on the text descriptions. Did you miss anything in the text description? If yes, do you have suggestions for what should be included?",No I just had to go back and reread to make sure what I am looking at is accurate.
+652d36620eca7decc5bd4466,Post Study Survey,Do you have any other comments?,I learnt something new today.
+653ad51a96ba72b4243e5c07,Tennis-Vis-Q3,What are your insights and take-aways from this plot for this data?,It is an interesting plot for the data points. Especially the fact that although a lot of people won the French Open (the most individual tournament) more people won the Australian tournament as well as other games. This is likely due to the sizes being so closely.   
+653ad51a96ba72b4243e5c07,Covid-Text-Q3,What are your insights and take-aways from the description of this data?,"Imediately this data showcases the most common symptoms are Anosmia and Fatigue, with Fatigue being the most important. However, it is not present in all cases, almost 22 % do not have this symptom. "
+653ad51a96ba72b4243e5c07,Organizations-Both-Q3,What are your insights and take-aways from the plot and the description for this data?,"I think biggest take away is how the UN is not the organisation that everyone is part of, UPU and UNESCO is, then its the UN. Another intesting aspect is that there are some countries that are not part of any international organisation.  "
+653ad51a96ba72b4243e5c07,Post Study Survey,"Please comment on the text descriptions. Did you miss anything in the text description? If yes, do you have suggestions for what should be included?",I think the only thing I may miss is the no intersection and all intersection description of the data. I do not think it should be in the final paragraph of the text but rather in the paragraph when you introduce the 5 biggest intersections.
+653ad51a96ba72b4243e5c07,Post Study Survey,Do you have any other comments?,
+659ea43fea7c0cc45bbe771f,Tennis-Text-Q3,What are your insights and take-aways from the description of this data?,The different properties are explained very clearly. It's easy to determine the largest set and intersection. The dataset is well written.
+659ea43fea7c0cc45bbe771f,Covid-Both-Q3,What are your insights and take-aways from the plot and the description for this data?,Description is clearly written which allowed me to determine largest set and intersection. The plots are also easy to read which made it easy to verify my answers.
+659ea43fea7c0cc45bbe771f,Organizations-Vis-Q3,What are your insights and take-aways from this plot for this data?,"Plot clearly shows the largest set is UPU and largest intersection includes 5 sets which are Interpol, UN, UNESCO, UPU and WHO. I can also see that there is no intersection that includes all the sets. Plot data is clear and easy to read."
+659ea43fea7c0cc45bbe771f,Post Study Survey,"Please comment on the text descriptions. Did you miss anything in the text description? If yes, do you have suggestions for what should be included?",I didn't miss anything in the text description.
+659ea43fea7c0cc45bbe771f,Post Study Survey,Do you have any other comments?,No comments.
+65da51b212ad91d9df1913fd,Organizations-Text-Q3,What are your insights and take-aways from the description of this data?,"I'm finding the UpSets quite confusing. 
+I'd rather using traditional graphing."
+65da51b212ad91d9df1913fd,Covid-Both-Q3,What are your insights and take-aways from the plot and the description for this data?,"Covid cases have Fatigue and Anosmia as the biggest symptom.
+Where Fatigue is the most common "
+65da51b212ad91d9df1913fd,Tennis-Vis-Q3,What are your insights and take-aways from this plot for this data?,Showing who's won the Tennis Grand Slam by country?
+65da51b212ad91d9df1913fd,Post Study Survey,"Please comment on the text descriptions. Did you miss anything in the text description? If yes, do you have suggestions for what should be included?",I don't think so. 
+65da51b212ad91d9df1913fd,Post Study Survey,Do you have any other comments?,
+663e5c83c1599fe4e23d98ae,Covid-Both-Q3,What are your insights and take-aways from the plot and the description for this data?,Fatigue was the main symptom of covid but it also varied with its other symptoms
+663e5c83c1599fe4e23d98ae,Organizations-Text-Q3,What are your insights and take-aways from the description of this data?,I was kind of confused with trend analysis aspect of the data
+663e5c83c1599fe4e23d98ae,Tennis-Vis-Q3,What are your insights and take-aways from this plot for this data?,The amount of winners at each grand slam torunament is similar
+663e5c83c1599fe4e23d98ae,Post Study Survey,"Please comment on the text descriptions. Did you miss anything in the text description? If yes, do you have suggestions for what should be included?",I think the intersection aspect made it difficult
+663e5c83c1599fe4e23d98ae,Post Study Survey,Do you have any other comments?,
+6658cf093c3b7a255aeae9eb,Organizations-Text-Q3,What are your insights and take-aways from the description of this data?,That there is a lot of organisations that countries are part of and many are part of the same ones 
+6658cf093c3b7a255aeae9eb,Covid-Vis-Q3,What are your insights and take-aways from this plot for this data?,That there is a lot of Covid sympoms. It’s common for people to feel fatigue and that overlap with anosmia a lot. F
+6658cf093c3b7a255aeae9eb,Tennis-Both-Q3,What are your insights and take-aways from the plot and the description for this data?,It’s common for tennis players to Hve just won one grand slam tournment
+6658cf093c3b7a255aeae9eb,Post Study Survey,"Please comment on the text descriptions. Did you miss anything in the text description? If yes, do you have suggestions for what should be included?",I thought it was very confusing. It was hard to picture what it would look like on the visualised graph.
+6658cf093c3b7a255aeae9eb,Post Study Survey,Do you have any other comments?,
+665c72ef8e6e166f13aee9f6,Tennis-Both-Q3,What are your insights and take-aways from the plot and the description for this data?,confusing 
+665c72ef8e6e166f13aee9f6,Organizations-Vis-Q3,What are your insights and take-aways from this plot for this data?,"sets are 7, intersection is the upu, has the lowest selection, and its 18 large, high set is still upu making the set and intersection similar"
+665c72ef8e6e166f13aee9f6,Covid-Text-Q3,What are your insights and take-aways from the description of this data?,confusing
+665c72ef8e6e166f13aee9f6,Post Study Survey,"Please comment on the text descriptions. Did you miss anything in the text description? If yes, do you have suggestions for what should be included?",less complex example
+665c72ef8e6e166f13aee9f6,Post Study Survey,Do you have any other comments?,nil
+665f9223c7db27a5d32d81ab,Tennis-Vis-Q3,What are your insights and take-aways from this plot for this data?,"To be honest the plot is confusing and might take a while to get used to. I'm not sure what this is telling me, does it mean that when I see an all set intersection does it mean that all the tournaments where played on the same day and 9 people won all the 9 winners played in the same tournaments and they all won.
+I really want to appreciate the plot here because it looks visually appealing but I find it hard to make sense of the data."
+665f9223c7db27a5d32d81ab,Covid-Text-Q3,What are your insights and take-aways from the description of this data?,I'm not entirely sure what the take away from this is as well. Reading by text is even more confusing. I guess in summary just as the introduction says this data has covid symptoms as it's sets and it is plotting how many covid cases showed these symptoms.
+665f9223c7db27a5d32d81ab,Organizations-Both-Q3,What are your insights and take-aways from the plot and the description for this data?,It shows that UPU has the largest number of member countries.
+665f9223c7db27a5d32d81ab,Post Study Survey,"Please comment on the text descriptions. Did you miss anything in the text description? If yes, do you have suggestions for what should be included?",I the text descriptions should be more summarized to make it easier for readers and people new to this data format
+665f9223c7db27a5d32d81ab,Post Study Survey,Do you have any other comments?,I would like to learn more about this method of data visualization but thus far it does not seem intuitive .
+6664661dece3c191d9dd5ab2,Organizations-Text-Q3,What are your insights and take-aways from the description of this data?,The dataset properties description was confusing 
+6664661dece3c191d9dd5ab2,Tennis-Vis-Q3,What are your insights and take-aways from this plot for this data?,Visual info much easier to read
+6664661dece3c191d9dd5ab2,Covid-Both-Q3,What are your insights and take-aways from the plot and the description for this data?,I didn't really need the text to answer the questions 
+6664661dece3c191d9dd5ab2,Post Study Survey,"Please comment on the text descriptions. Did you miss anything in the text description? If yes, do you have suggestions for what should be included?",In the first example it was confusing when saying there are 18 sets but only 8 included in the plot. I didn't know what that meant 
+6664661dece3c191d9dd5ab2,Post Study Survey,Do you have any other comments?,
+6668c49e07ce221e29f2bc5a,Tennis-Text-Q3,What are your insights and take-aways from the description of this data?,Text description shows all the important information of this dataset.
+6668c49e07ce221e29f2bc5a,Organizations-Vis-Q3,What are your insights and take-aways from this plot for this data?,"Data visualization organizes the information better, but if asked for the value of the largest set, it might require performing calculations."
+6668c49e07ce221e29f2bc5a,Covid-Both-Q3,What are your insights and take-aways from the plot and the description for this data?,"I find that if I am presented with both text description and data visualization, the data visualization helps me answer the question better. However, for people who do not understand how to interpret the data visualization, text description helps more."
+6668c49e07ce221e29f2bc5a,Post Study Survey,"Please comment on the text descriptions. Did you miss anything in the text description? If yes, do you have suggestions for what should be included?","The text description provides all the essential information and it is not too long. It does not include all the intersections necessary, but it contains most of the important points of the dataset."
+6668c49e07ce221e29f2bc5a,Post Study Survey,Do you have any other comments?,"Having both text description and data visualization combined works the best since the people who can read UpSet plots well will use the plot to extract information, but the people who do not understand UpSet plots as clear can use the text description to help them get information about the dataset."
+666c6ddc652f38b0355bc344,Tennis-Both-Q3,What are your insights and take-aways from the plot and the description for this data?,"a more detailed way of showing data, but i prefer venn diagram still"
+666c6ddc652f38b0355bc344,Organizations-Text-Q3,What are your insights and take-aways from the description of this data?,i prefer the written description over the upset chart
+666c6ddc652f38b0355bc344,Covid-Vis-Q3,What are your insights and take-aways from this plot for this data?,easy to read
+666c6ddc652f38b0355bc344,Post Study Survey,"Please comment on the text descriptions. Did you miss anything in the text description? If yes, do you have suggestions for what should be included?",a better summary at the end
+666c6ddc652f38b0355bc344,Post Study Survey,Do you have any other comments?,
+666cb540cd1f9d9f05c12105,Covid-Both-Q3,What are your insights and take-aways from the plot and the description for this data?,"The description helped me connect and visualize the UpSet visualizations better, as I personally find text easier. However the visualizations helps me see where intersections are present easier than reading the text."
+666cb540cd1f9d9f05c12105,Tennis-Text-Q3,What are your insights and take-aways from the description of this data?,Reading the descriptions helped me answer the questions efficiently. 
+666cb540cd1f9d9f05c12105,Organizations-Vis-Q3,What are your insights and take-aways from this plot for this data?,"Some things were simple to see, such as number of sets and intersections. However I am not generally confident on relying on just visualization. Although this may be because this method of displaying data is new to me."
+666cb540cd1f9d9f05c12105,Post Study Survey,"Please comment on the text descriptions. Did you miss anything in the text description? If yes, do you have suggestions for what should be included?",I found the text descriptions very easy and I didn't have issues answering the questions.
+666cb540cd1f9d9f05c12105,Post Study Survey,Do you have any other comments?,
+6672eb5ae4c4aa0c62b18d46,Tennis-Both-Q3,What are your insights and take-aways from the plot and the description for this data?,"Although the Australian open is the largest set followed by  the french open. However, The french open team is the largest intersection followed by Austrlian."
+6672eb5ae4c4aa0c62b18d46,Covid-Vis-Q3,What are your insights and take-aways from this plot for this data?,"The most common COVID symptom is Fatigue followed by Anosmia.  Also, the Ansomia and Fatigue is the most common symptoms to come togather"
+6672eb5ae4c4aa0c62b18d46,Organizations-Text-Q3,What are your insights and take-aways from the description of this data?,"The largest international organization IS UPU with the largest overlap with other institutions like UNESCO, Interpol, WHO and UN."
+6672eb5ae4c4aa0c62b18d46,Post Study Survey,"Please comment on the text descriptions. Did you miss anything in the text description? If yes, do you have suggestions for what should be included?",need to be more summarized or more clear to the point
+6672eb5ae4c4aa0c62b18d46,Post Study Survey,Do you have any other comments?,
+6678757b671f246b4c1b4f6c,Tennis-Text-Q3,What are your insights and take-aways from the description of this data?,Its different. Takes a bit of getting used to
+6678757b671f246b4c1b4f6c,Covid-Vis-Q3,What are your insights and take-aways from this plot for this data?,Much easier to convey than the last one
+6678757b671f246b4c1b4f6c,Organizations-Both-Q3,What are your insights and take-aways from the plot and the description for this data?,Nice option to have two ways of reading it
+6678757b671f246b4c1b4f6c,Post Study Survey,"Please comment on the text descriptions. Did you miss anything in the text description? If yes, do you have suggestions for what should be included?",Really hard to understand with just text descriptions
+6678757b671f246b4c1b4f6c,Post Study Survey,Do you have any other comments?,
+667ae30569196599fa6b0ba9,Organizations-Both-Q3,What are your insights and take-aways from the plot and the description for this data?,The UpSet is clear and is able to show the intersections of multiple sets clearly. 
+667ae30569196599fa6b0ba9,Covid-Vis-Q3,What are your insights and take-aways from this plot for this data?,It was clear without the need for text. 
+667ae30569196599fa6b0ba9,Tennis-Text-Q3,What are your insights and take-aways from the description of this data?,Easy to understand and read although missing the visual component takes away from the speed you are able to understand the information.  
+667ae30569196599fa6b0ba9,Post Study Survey,"Please comment on the text descriptions. Did you miss anything in the text description? If yes, do you have suggestions for what should be included?",I didn't find that anything was missing. 
+667ae30569196599fa6b0ba9,Post Study Survey,Do you have any other comments?,
+6681577c9263349cc005ad9b,Organizations-Both-Q3,What are your insights and take-aways from the plot and the description for this data?,"The graph helps a lot on the visual side because it allows you to reassure yourself of what you have read in the description. But I find that the description is really long and for those who do not like reading, they will never be able to get by without the graph"
+6681577c9263349cc005ad9b,Covid-Text-Q3,What are your insights and take-aways from the description of this data?,It's not obvious to see the difference between the larger set and the smaller one without seeing the graph
+6681577c9263349cc005ad9b,Tennis-Vis-Q3,What are your insights and take-aways from this plot for this data?,nothing to add
+6681577c9263349cc005ad9b,Post Study Survey,"Please comment on the text descriptions. Did you miss anything in the text description? If yes, do you have suggestions for what should be included?",I have already made my suggestions
+6681577c9263349cc005ad9b,Post Study Survey,Do you have any other comments?,no comment
+668221ef283ed3e39954487f,Organizations-Both-Q3,What are your insights and take-aways from the plot and the description for this data?,Something new to learn! never tried it before
+668221ef283ed3e39954487f,Tennis-Text-Q3,What are your insights and take-aways from the description of this data?,Interesting read and project
+668221ef283ed3e39954487f,Covid-Vis-Q3,What are your insights and take-aways from this plot for this data?,Trickier 
+668221ef283ed3e39954487f,Post Study Survey,"Please comment on the text descriptions. Did you miss anything in the text description? If yes, do you have suggestions for what should be included?",Easy to read and understand the diagram 
+668221ef283ed3e39954487f,Post Study Survey,Do you have any other comments?,
+6684089a4c68d1a42da1cfaa,Tennis-Text-Q3,What are your insights and take-aways from the description of this data?,Useful way of displaying a venn diagram needing to include more than 3 sets
+6684089a4c68d1a42da1cfaa,Covid-Vis-Q3,What are your insights and take-aways from this plot for this data?,Easier to read than the written form
+6684089a4c68d1a42da1cfaa,Organizations-Both-Q3,What are your insights and take-aways from the plot and the description for this data?,Easier to read than written
+6684089a4c68d1a42da1cfaa,Post Study Survey,"Please comment on the text descriptions. Did you miss anything in the text description? If yes, do you have suggestions for what should be included?","Did not miss anything in the text description, although the descriptions are quite long"
+6684089a4c68d1a42da1cfaa,Post Study Survey,Do you have any other comments?,
+6684445f6894372c54825fd4,Covid-Text-Q3,What are your insights and take-aways from the description of this data?,Still a bit confused how the inter-sectioning works 
+6684445f6894372c54825fd4,Organizations-Vis-Q3,What are your insights and take-aways from this plot for this data?,I have no take-aways
+6684445f6894372c54825fd4,Tennis-Both-Q3,What are your insights and take-aways from the plot and the description for this data?,I understand how the image helps with a quick read but the written format is still easier to understand by a country mile. 
+6684445f6894372c54825fd4,Post Study Survey,"Please comment on the text descriptions. Did you miss anything in the text description? If yes, do you have suggestions for what should be included?",I think the text descriptions conveyed everything they needed to. I had no issue finding the info I need for the questions in the text. 
+6684445f6894372c54825fd4,Post Study Survey,Do you have any other comments?,
+6695703cec19c758ec8dbd7c,Tennis-Vis-Q3,What are your insights and take-aways from this plot for this data?,The Australian open is the most won slam and Wimbledon  is the least won slam. There are 9 winners who have won all 4 slams. Every combination of slams has been achieved.
+6695703cec19c758ec8dbd7c,Covid-Both-Q3,What are your insights and take-aways from the plot and the description for this data?,Fatigue is the highest occurring symptom. The most common combination of symptoms is Fatigue and Anosmia. The lowest occurring symptom is shortness of breath and the lowest combination is shortness of breath and cough with only one recorded. 23 cases had all 6 symptoms. 
+6695703cec19c758ec8dbd7c,Organizations-Text-Q3,What are your insights and take-aways from the description of this data?,The largest set is UPU with 225 members and the smallest is SAARC with only 16. There are no countries who are members of all 8 organizations. 
+6695703cec19c758ec8dbd7c,Post Study Survey,"Please comment on the text descriptions. Did you miss anything in the text description? If yes, do you have suggestions for what should be included?",I did not miss anything. They were a bit wordy.
+6695703cec19c758ec8dbd7c,Post Study Survey,Do you have any other comments?,
+669588e8ad1745596a02a04b,Covid-Text-Q3,What are your insights and take-aways from the description of this data?,
+669588e8ad1745596a02a04b,Organizations-Vis-Q3,What are your insights and take-aways from this plot for this data?,
+669588e8ad1745596a02a04b,Tennis-Both-Q3,What are your insights and take-aways from the plot and the description for this data?,
+669588e8ad1745596a02a04b,Post Study Survey,"Please comment on the text descriptions. Did you miss anything in the text description? If yes, do you have suggestions for what should be included?",I prefer just the visualizations.
+669588e8ad1745596a02a04b,Post Study Survey,Do you have any other comments?,
+66962f162372082a3647f572,Covid-Both-Q3,What are your insights and take-aways from the plot and the description for this data?,"The presentation is very clever and useful, but I found it to be a very steep learning curve - making a few mistakes in the training section as I grappled to understand. It may be a text-based alternative to a venn diagram, but it isn't anywhere near as immediately accessible or understandable."
+66962f162372082a3647f572,Organizations-Vis-Q3,What are your insights and take-aways from this plot for this data?,"It was understandable, and I'm getting the hang of the system."
+66962f162372082a3647f572,Tennis-Text-Q3,What are your insights and take-aways from the description of this data?,"I've struggled to visualise how Just French Open can be the largest intersection, when the Australian Open on its own is the largest set."
+66962f162372082a3647f572,Post Study Survey,"Please comment on the text descriptions. Did you miss anything in the text description? If yes, do you have suggestions for what should be included?",It's difficult to understand without a visual representation. I feel I would have understood it better if I could have seen it represented.
+66962f162372082a3647f572,Post Study Survey,Do you have any other comments?,"There's a steep learning curves with all these options, and this might engender a lack of confidence which deters people from learning them."
+669eb09f44fd00f288eb8eb6,Covid-Vis-Q3,What are your insights and take-aways from this plot for this data?,"There is a great discrepancy in covid symptoms, with 5 key symptoms often occurring alone or with 1-2 other symptoms, and more rarely alongside multiple symptoms"
+669eb09f44fd00f288eb8eb6,Organizations-Text-Q3,What are your insights and take-aways from the description of this data?,"This dataset is a bit harder to visualize and understand, given the number of possible intersection and large number of sets"
+669eb09f44fd00f288eb8eb6,Tennis-Both-Q3,What are your insights and take-aways from the plot and the description for this data?,This is clear to understand given the restrictive set
+669eb09f44fd00f288eb8eb6,Post Study Survey,"Please comment on the text descriptions. Did you miss anything in the text description? If yes, do you have suggestions for what should be included?","While it is necessary to include the number of sets in the study and those visualized, I wonder if it would be better to mention this figure elsewhere in the description rather than in the start (it made me think that x number of sets were in the study, which I had to correct in my mind when continuing the sentence)"
+669eb09f44fd00f288eb8eb6,Post Study Survey,Do you have any other comments?,
+66a51057a123a32824a9a9e0,Covid-Text-Q3,What are your insights and take-aways from the description of this data?,"The dataset reveals a significant variability in symptom prevalence among covid cases, with the most common symptoms having the largest set sizes and substantial overlap between symptoms."
+66a51057a123a32824a9a9e0,Tennis-Vis-Q3,What are your insights and take-aways from this plot for this data?,THE PLOT IS NOT TOO CLEAR FOR THIS DATA
+66a51057a123a32824a9a9e0,Organizations-Both-Q3,What are your insights and take-aways from the plot and the description for this data?,"The dataset shows significant variability in the membership sizes of international organizations, with the largest intersections involving multiple major organizations and no single intersection including all organizations."
+66a51057a123a32824a9a9e0,Post Study Survey,"Please comment on the text descriptions. Did you miss anything in the text description? If yes, do you have suggestions for what should be included?","NO, JUST THE UPSET WAS DIFFICULT"
+66a51057a123a32824a9a9e0,Post Study Survey,Do you have any other comments?,
+66ade2c28a85033cab570717,Covid-Vis-Q3,What are your insights and take-aways from this plot for this data?,Useful but still difficult to fully grasp
+66ade2c28a85033cab570717,Tennis-Text-Q3,What are your insights and take-aways from the description of this data?,It was easier to read in this formst
+66ade2c28a85033cab570717,Organizations-Both-Q3,What are your insights and take-aways from the plot and the description for this data?,Overload of info
+66ade2c28a85033cab570717,Post Study Survey,"Please comment on the text descriptions. Did you miss anything in the text description? If yes, do you have suggestions for what should be included?",No
+66ade2c28a85033cab570717,Post Study Survey,Do you have any other comments?,
+66ba287d1cd394ac6c21a43c,Organizations-Both-Q3,What are your insights and take-aways from the plot and the description for this data?,"It has 8 data sets.
+
+Largest intersection is from Interpol, UN, UNESCo, UPU and WHO
+
+largest set is UPU and smallest is SAARC."
+66ba287d1cd394ac6c21a43c,Tennis-Text-Q3,What are your insights and take-aways from the description of this data?,"It contains 4 data sets with total of 208 elements.
+
+Most of the set sizes are roughly equal where the largest is Australia Open.
+"
+66ba287d1cd394ac6c21a43c,Covid-Vis-Q3,What are your insights and take-aways from this plot for this data?,"It contains 6 sets with largest data set is Fatigue.
+
+Largest intersection is anosmia and fatigue with 281 size.
+
+all intersection has all sets."
+66ba287d1cd394ac6c21a43c,Post Study Survey,"Please comment on the text descriptions. Did you miss anything in the text description? If yes, do you have suggestions for what should be included?",It was good experience.
+66ba287d1cd394ac6c21a43c,Post Study Survey,Do you have any other comments?,
+66ba5f3894e5b3812210f9bb,Organizations-Both-Q3,What are your insights and take-aways from the plot and the description for this data?,"From this plot, I can infer how many countries are members in the same organisations - e.g., there are 117 member countries that share membership in Interpol, UN, UNESCO, UPU, and WHO."
+66ba5f3894e5b3812210f9bb,Tennis-Vis-Q3,What are your insights and take-aways from this plot for this data?,"It appears that at least 9 individuals have won all grand slam tournaments. The easiest tournament to win, judging by how many individuals have won it, is French Open, won by 23 individuals."
+66ba5f3894e5b3812210f9bb,Covid-Text-Q3,What are your insights and take-aways from the description of this data?,"At least 32 covid cases had different symptoms to the ones presented in the data set. In 281 covid cases, patients had symptoms of anosmia and fatigue."
+66ba5f3894e5b3812210f9bb,Post Study Survey,"Please comment on the text descriptions. Did you miss anything in the text description? If yes, do you have suggestions for what should be included?","I didn't miss anything in the text descriptions, but they took longer to read than it took me to interpret the diagrams alone."
+66ba5f3894e5b3812210f9bb,Post Study Survey,Do you have any other comments?,
+66bce91186a8da8151c30f61,Organizations-Vis-Q3,What are your insights and take-aways from this plot for this data?,"1.That most of the member countries are part of multiple organisation.
+2.Most of the member countries are in exactly same organisations.
+3.Only 19 member countries are in a single organisation.
+4.Only 5 member countries are not in any organisation.
+"
+66bce91186a8da8151c30f61,Tennis-Both-Q3,What are your insights and take-aways from the plot and the description for this data?,"1.The largest set is Australian
+2.The smallest set is Wimbledon"
+66bce91186a8da8151c30f61,Covid-Text-Q3,What are your insights and take-aways from the description of this data?,"1. There  are 6 sets
+2. The largest set is Fatigue with 1531 elements
+3. The smallest set is shortness of breath with 148 elements
+4.The largest intersection are Anomia and Fatigue
+5.The smallest intersection Anosmia"
+66bce91186a8da8151c30f61,Post Study Survey,"Please comment on the text descriptions. Did you miss anything in the text description? If yes, do you have suggestions for what should be included?",The text descriptions were okay.
+66bce91186a8da8151c30f61,Post Study Survey,Do you have any other comments?,none
+66becf77a87578f124f8a036,Tennis-Both-Q3,What are your insights and take-aways from the plot and the description for this data?,"When compared to a venn diagram, it is much easier to identify the largest sets using these plots, however, it is harder to identify each individual intersection. It takes a bit of effort to identify intersections. Although the sets are easy to comprehend, having another plot for intersections would be recommended. Understanding the size of the intersections is very effortless as well. "
+66becf77a87578f124f8a036,Covid-Vis-Q3,What are your insights and take-aways from this plot for this data?,"Similar insights to previous one. It is very easy to see that fatigue is the largest set. The smallest set is probably shortness of breath, however, due to the nature of the graph, you can not read it. The plot should be extended vertically. "
+66becf77a87578f124f8a036,Organizations-Text-Q3,What are your insights and take-aways from the description of this data?,"It was hard to know if there was a ""all-set"" intersection since this was not clearly described. It was easy to identify the largest set which is UPU."
+66becf77a87578f124f8a036,Post Study Survey,"Please comment on the text descriptions. Did you miss anything in the text description? If yes, do you have suggestions for what should be included?","In the text descriptions, it was hard to identify if there was an ""all-set"" intersection present. In one of the examples, there were 18 sets, only 8 of which were shown. This makes it very hard to identify the data because the text does not allow you to come to a decision about the entire database but only which are described in the text. If the information about all 18 sets were written in the text, you could use process of elimination to get to your answer. Without all of that information, you can not use a process of elimination, hence, will need to simply guess your answer which is not ideal."
+66becf77a87578f124f8a036,Post Study Survey,Do you have any other comments?,"It was a very interesting study, I must say. The sets were very easy to understand. The intersections are slightly bit more confusing. I would recommend to see if there are other graphs or plots that can be used to depict the various intersections. In most of todays scientific articles, you should not have to read instructions to understand the graph or at the very least, you should be able to interpret the data with minimal amount of reading. In this instance, we had to carefully read the instructions several times to understand what an intersection was. Other than that, it was easy to understand and interpret. "
+66bff58ff2d1a5f273431584,Organizations-Both-Q3,What are your insights and take-aways from the plot and the description for this data?,"Many countries are in multiple different international organizations
+Most countries are in the largest intersection of organizations, with a smaller subset also in NATO"
+66bff58ff2d1a5f273431584,Covid-Text-Q3,What are your insights and take-aways from the description of this data?,Text-provided information is easy to parse but do not provide a visualization of relative differences
+66bff58ff2d1a5f273431584,Tennis-Vis-Q3,What are your insights and take-aways from this plot for this data?,"visualization is helpful at a glance
+French open has the largest intersection but is not the largest set"
+66bff58ff2d1a5f273431584,Post Study Survey,"Please comment on the text descriptions. Did you miss anything in the text description? If yes, do you have suggestions for what should be included?","Did not miss anything, perhaps short point form instead of sentences?"
+66bff58ff2d1a5f273431584,Post Study Survey,Do you have any other comments?,
+66c4dee716f98496f9638591,Organizations-Text-Q3,What are your insights and take-aways from the description of this data?,That 117 countries have 5 mutual orgs
+66c4dee716f98496f9638591,Covid-Vis-Q3,What are your insights and take-aways from this plot for this data?,That most people who get covid will have Anosmia and Fatigue. Shortness of (breath) is the most rare symptom
+66c4dee716f98496f9638591,Tennis-Both-Q3,What are your insights and take-aways from the plot and the description for this data?,That all of the major tennis matches are roughly the same size
+66c4dee716f98496f9638591,Post Study Survey,"Please comment on the text descriptions. Did you miss anything in the text description? If yes, do you have suggestions for what should be included?","The text descriptions were good for answering the questions, but harder to get the full picture off first glance like you can with the visualization "
+66c4dee716f98496f9638591,Post Study Survey,Do you have any other comments?,
+66c535b047ab0893183e06d8,Organizations-Vis-Q3,What are your insights and take-aways from this plot for this data?,It helped to visualize the different international organization thereby helping my understanding  of their relationship.  The data sets provided clue to this visualization
+66c535b047ab0893183e06d8,Tennis-Both-Q3,What are your insights and take-aways from the plot and the description for this data?,It shows the relationship of how a winner could win multiple tournaments.  The data shows how many winners won the different tournaments and the relationship of the number of people that won 1 and more 1 tournament
+66c535b047ab0893183e06d8,Covid-Text-Q3,What are your insights and take-aways from the description of this data?,"The keys take away is that covid have multiple symptoms and from the data provided, the most common of covid symptoms is fatigue"
+66c535b047ab0893183e06d8,Post Study Survey,"Please comment on the text descriptions. Did you miss anything in the text description? If yes, do you have suggestions for what should be included?",The text description is quite concise
+66c535b047ab0893183e06d8,Post Study Survey,Do you have any other comments?,this survey is quite educative
+66c5d1accc092f147f94b363,Covid-Both-Q3,What are your insights and take-aways from the plot and the description for this data?,Fatigue is the biggest set and shortness of is the smallest set. The biggest intersection is the anosmia and fatigue
+66c5d1accc092f147f94b363,Tennis-Vis-Q3,What are your insights and take-aways from this plot for this data?,Australian is the biggest set and french is the smallest set. Biggest intersection is the french open
+66c5d1accc092f147f94b363,Organizations-Text-Q3,What are your insights and take-aways from the description of this data?,"largest set is upu with 225 and the smallest set is saarc with 16. The biggest inserection is UNESCO, Interpol, WHO, UN, and UPU (117).
+"
+66c5d1accc092f147f94b363,Post Study Survey,"Please comment on the text descriptions. Did you miss anything in the text description? If yes, do you have suggestions for what should be included?","Really need to read, although I believe I didn't miss anything"
+66c5d1accc092f147f94b363,Post Study Survey,Do you have any other comments?,no
+66c5f3b24507c79830b451a7,Covid-Vis-Q3,What are your insights and take-aways from this plot for this data?,"It was not immediately intuitive but after reviewing the directions, it quickly became easier to understand."
+66c5f3b24507c79830b451a7,Organizations-Both-Q3,What are your insights and take-aways from the plot and the description for this data?,"With the accompanying text, the dataset was extremely easy to understand. "
+66c5f3b24507c79830b451a7,Tennis-Text-Q3,What are your insights and take-aways from the description of this data?,"The all-set data is less obvious in a written format, as I expect it to be featured with the rest of the intersection data and not on its own."
+66c5f3b24507c79830b451a7,Post Study Survey,"Please comment on the text descriptions. Did you miss anything in the text description? If yes, do you have suggestions for what should be included?",The all-set data should be included and integrated into the intersection sections
+66c5f3b24507c79830b451a7,Post Study Survey,Do you have any other comments?,
+66c5feea08e0368a0da64d38,Organizations-Text-Q3,What are your insights and take-aways from the description of this data?,These stats represent well the info from all organisation
+66c5feea08e0368a0da64d38,Tennis-Both-Q3,What are your insights and take-aways from the plot and the description for this data?,explain well the stat
+66c5feea08e0368a0da64d38,Covid-Vis-Q3,What are your insights and take-aways from this plot for this data?,fatigue is the most symptom
+66c5feea08e0368a0da64d38,Post Study Survey,"Please comment on the text descriptions. Did you miss anything in the text description? If yes, do you have suggestions for what should be included?",Everything was clear
+66c5feea08e0368a0da64d38,Post Study Survey,Do you have any other comments?,no
