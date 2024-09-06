@@ -11,3 +11,4 @@
 *.sw?
 
 data/.DS_Store
+venv/
