@@ -12,14 +12,14 @@ library(performance)
 
 rm(list=ls()) # clear working environment
 
-setwd("~/Desktop/UpSet/Online Quant Study") # set working directory to correct folder 
+setwd("./data/Online Quant Study") # set working directory to correct folder 
 
 # ----------------------- LOAD & PROCESS DATA -----------------------
 
 # load in data
-both_data <- read_csv("Data for R/Both_data.csv")
-text_data <- read_csv("Data for R/Text_data.csv")
-vis_data <- read_csv("Data for R/Vis_data.csv")
+both_data <- read_csv("Both_data.csv")
+text_data <- read_csv("Text_data.csv")
+vis_data <- read_csv("Vis_data.csv")
 
 # create condition variable 
 both_data <- both_data %>% mutate(condition = "both")
