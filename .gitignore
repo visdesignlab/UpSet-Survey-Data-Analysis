@@ -10,8 +10,6 @@
 *.sln
 *.sw?
 
-data/prepilot-only-raw.csv
-data/prepilot-pilot-raw.csv
 data/.DS_Store
 venv/
 Final Survey Covid Datasets/
