@@ -12,5 +12,8 @@
 
 data/.DS_Store
 venv/
+
+.venv/
+
 Final Survey Covid Datasets/
 figures/
