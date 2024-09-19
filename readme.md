@@ -3,6 +3,7 @@
 This repo contains the supplementary materials for our paper "Accessible Text Descriptions for UpSet Plots".
 There are three major components to this repo:
 
+- Appendix (appendix.pdf)
 - Data
 - Analysis Notebooks
 - LLM Study Artifact
