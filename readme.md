@@ -20,6 +20,7 @@ We include both raw data and processed data used in the analysis.
 | data/Vis_data.csv                    | correctness data for 'vis' condition                                             |
 | data/final-study-raw-2               | all the raw data for all the completed/ rejected/ returned participants          |
 | data/final-study.csv                 | data for all the participants who completed                                      |
+| data/notebook-data/\*(.json or .csv) | datasets for python implementation notebook                                      |
 | data/participants/\*.json            | unmodified participant from Reivist                                              |
 | data/prep-pilot.csv                  | data having only prepilot and pilot participants (10)                            |
 | data/prepilot-pilot-raw.csv          | all the participants only in prepilot and pilot (returned/ completed/ rejected)  |
@@ -27,7 +28,6 @@ We include both raw data and processed data used in the analysis.
 | data/qual-coding.csv                 | coding of qualitative responses                                                  |
 | data/qualitative-responses           | qualitative responses from the survey                                            |
 | data/time-correctness-condition      | correctness by condition (vis, text, both) and time duration spent per condition |
-| data/notebook-data/\*(.json or .csv) | datasets for python implementation notebook                                      |
 
 # Notebooks / Analysis
 
