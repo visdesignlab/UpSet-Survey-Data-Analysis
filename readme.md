@@ -27,18 +27,20 @@ We include both raw data and processed data used in the analysis.
 | data/qual-coding.csv | coding of qualitative responses |
 | data/qualitative-responses | qualitative responses from the survey |
 | data/time-correctness-condition | correctness by condition (vis, text, both) and time duration spent per condition |
+| data/notebook-data/*(.json or .csv) | datasets for python implementation notebook |
 
 
 # Notebooks / Analysis
 
-The notebooks in this repo are used to generate the data and figures in the paper. 
-There are 5 notebooks in this repo:
+The notebooks in this repo are used to generate the data and figures in the paper or as a python implementation proof of concept.
+There are 6 notebooks in this repo:
 
 - notebooks/data-analysis-pilot.ipynb: This notebook contains the analysis of the pilot data. Generally this focuses on correctness of different formats
 - notebooks/data-analysis.ipynb: This notebook contains the analysis of the main study data. This includes analysis of correctness, time, and preference data.
 - notebooks/survey-analysis.ipynb: This notebook contains the analysis of the survey data. This includes analysis of preferences, demographics, and correlation between correctness and expertise. In addition it include analysis of the LLM study data.
 - notebooks/time-analysis.ipynb: This notebook contains the analysis of the time data from the survey. 
 - notebooks/upset_analyses_v1.R: This R script contains the code used to do significance testing on the data.
+- notebooks/supplimentary_upsetplot.ipynb: This notebook contains a python implementation of UpSet (UpSetPlot) and a demonstration of text description generation through this package.
 
 ## Installation
 
@@ -58,6 +60,8 @@ Notebooks were developed using the VSCode Jupyter notebook extension, but should
 ```sh
 jupyter-lab notebooks/survey-analysis.ipynb 
 ```
+
+*Note*: The python implementation notebook (supplimentary_upsetplot.ipynb) is not able to be run due to the version of UpSetPlot used in the notebook being a fork of the main repository. For anonymity reasons during review, this fork will not be shared. We hope that the fork will be merged into the main package soon.
 
 # LLM Study Artifact
 
