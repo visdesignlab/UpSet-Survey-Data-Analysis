@@ -37,7 +37,7 @@ There are 6 notebooks in this repo:
 
 - notebooks/data-analysis-pilot.ipynb: This notebook contains the analysis of the pilot data. Generally this focuses on correctness of different formats
 - notebooks/data-analysis.ipynb: This notebook contains the analysis of the main study data. This includes analysis of correctness, time, and preference data.
-- notebooks/supplimentary_upsetplot.ipynb: This notebook contains a python implementation of UpSet (UpSetPlot) and a demonstration of text description generation through this package.
+- notebooks/suppl_upsetplot.ipynb: This notebook contains a python implementation of UpSet (UpSetPlot) and a demonstration of text description generation through this package.
 - notebooks/survey-analysis.ipynb: This notebook contains the analysis of the survey data. This includes analysis of preferences, demographics, and correlation between correctness and expertise. In addition it include analysis of the LLM study data.
 - notebooks/time-analysis.ipynb: This notebook contains the analysis of the time data from the survey.
 - notebooks/upset_analyses_v1.R: This R script contains the code used to do significance testing on the data.
